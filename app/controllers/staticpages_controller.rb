@@ -8,7 +8,7 @@ class StaticpagesController < ApplicationController
   def clips
   end
 
-  def présentation
+  def presentation
   end
 
   def anthropologie
